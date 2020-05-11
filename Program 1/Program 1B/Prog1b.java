@@ -1,4 +1,7 @@
+//Java Program to implement Basic Operations on Stack
 import java.util.Scanner;
+
+//Stack class 
 class Stack{
 	int stack[];
 	int size,top = -1;
@@ -7,6 +10,8 @@ class Stack{
 		this.size = size;
 		stack = new  int[size];
 	}
+	
+	//Function to perform Push Operation
 	void push(){
 		if(top == size-1){
 			System.out.println("Stack Overflow");
@@ -15,6 +20,8 @@ class Stack{
 		System.out.println("Enter element to be inserted:");
 		stack[++top] = s.nextInt();
 	}
+	
+	//Function to perform Pop Operation
 	void pop(){
 		if(top == -1){
 			System.out.println("Stack Underflow");
@@ -22,6 +29,8 @@ class Stack{
 		}
 		System.out.println("Popped Element:"+stack[top--]);
 	}
+	
+	//Function to display contents of stack
 	void display(){
 		if(top == -1){
 			System.out.println("Stack is Empty");
@@ -33,7 +42,11 @@ class Stack{
 			System.out.println(stack[i]);
 	}
 }
+
+//Main class
 public class Prog1b{
+	
+	//Driver Program
 	public static void main(String args[]){
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter the size of stack:");
