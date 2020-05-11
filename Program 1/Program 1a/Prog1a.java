@@ -28,7 +28,7 @@ public class Prog1a{
 		n = s.nextInt();
 		Student st[] = new Student[n];
 		for(i = 0;i < n;i++){
-			System.out.println("Enter details of Student-"+(i+1));
+			System.out.println("\nEnter details of Student-"+(i+1));
 			System.out.println("USN:");
 			USN = s.next();
 			System.out.println("Name:");
@@ -42,6 +42,7 @@ public class Prog1a{
 		System.out.println("The Entered Details are:");
 		System.out.println("----------------------------------------------------------------------------------------------");
 		System.out.println("NAME\t\tUSN\t\t\tBranch\t\tPhone");
+		System.out.println("----------------------------------------------------------------------------------------------");
 		for(i = 0;i < n;i++){
 			st[i].display();
 		}
