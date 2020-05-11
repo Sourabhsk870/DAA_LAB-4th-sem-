@@ -2,7 +2,7 @@
 	*Hi guys, I am Sourabh Santosh Kamble and I am an engineering Student at K.S. Institute of Technolgy.
 	
 	*I have created this repository so that any student of 4th sem who is affiliated to vtu 
-	under the 2018 CBCS scheme can view this lab programs as a refrence.
+	under the 2018 CBCS scheme can view this DAA lab programs as a refrence.
 	
 # ABOUT THE REPOSITORY
 	* The programs I have uploaded are tested in the terminal of ubuntu.
