@@ -1,17 +1,25 @@
+//Java Program to Scan and Print Student details Like Name,USN,Branch and Phone Number
 import java.util.Scanner;
+
+//Class to store student information
 class Student{
 	String Name,USN,Branch,Phone;
+	//Paramaterized Constructer
 	Student(String Name,String USN,String Branch,String Phone){
 		this.Name = Name;
 		this.USN = USN;
 		this.Branch = Branch;
 		this.Phone = Phone;
 	}
+	//Display function
 	void display(){
 		System.out.println(Name+"\t\t"+USN+"\t\t"+Branch+"\t\t"+Phone);
 	}
 }
+
+//Main class
 public class Prog1a{
+	//Driver Program
 	public static void main(String args[]){
 		int i,n;
 		String Name,USN,Branch,Phone;
