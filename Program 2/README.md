@@ -3,7 +3,7 @@
 
 # Program 2A
   It is a program to Scan and Print the details of Teaching,Technical and On Contract Staff.
-  Details like,
+  Details like
   * Staff ID
   * Name
   * Phone Number
