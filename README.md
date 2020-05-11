@@ -1,11 +1,11 @@
 # ABOUT ME
-	*Hi guys, I am Sourabh Santosh Kamble and I am an engineering Student at K.S. Institute of Technolgy.
+	*Hi guys, I am Sourabh Santosh Kamble and I am an engineering Student at K.S. Institute of Technology.
 	
 	*I have created this repository so that any student of 4th sem who is affiliated to vtu 
 	under the 2018 CBCS scheme can view this DAA lab programs as a refrence.
 	
 # ABOUT THE REPOSITORY
-	* The programs I have uploaded are tested in the terminal of ubuntu.
+	* The programs I have uploaded are tested in the terminal (in ubuntu).
 	
 	* These programs can be executed on various IDE platforms like Eclipse,Code blocks 
 	but I personally recommend you guys to  use the terminal(if linux) or 
