@@ -1,5 +1,5 @@
 # Program 1A
-  	Create a Java class Called Student withe the followinng details
+  	Create a Java class Called Student with the following details
   		*Name
   		*USN
   		*Branch
