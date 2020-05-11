@@ -64,7 +64,8 @@ public class Prog1b{
 					 break;
 				case 3 : st.display();
 					 break;
-				case 4 : System.exit(0);
+				case 4 : System.out.println("The program has been Terminated!!");
+					 System.exit(0);
 				default : System.out.println("!!Invalid choice!!");
 			}
 		}
