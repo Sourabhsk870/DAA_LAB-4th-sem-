@@ -9,5 +9,5 @@
 		* Average case.
 		
 ## Note:
-	The output time complexity may difer from system to system due to different processing speed
+	The output time complexity may difer from system to system due to different processing speeds
 	of different systems.
