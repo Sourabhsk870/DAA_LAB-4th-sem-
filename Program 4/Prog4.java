@@ -81,7 +81,7 @@ public class Prog4{
 		quicksort(a,0,n-1);
 		et = System.nanoTime() - st;
 		System.out.println("The time complexity for best case is ..."+(et/1000000000.0)+"secs");
-		flag = flase;
+		flag = false;
 		st = System.nanoTime();
 		quicksort(a,0,n-1);
 		et = System.nanoTime() - st;
