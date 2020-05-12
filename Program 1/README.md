@@ -2,7 +2,7 @@
 	Program 1 consists of two sub questions. 
 	
 ## Program 1A
-	It is a Program to store and print out  information of a student.
+	It is a Program to store and print the information of a student.
 	Student details like,
 	*Name
 	*Usn
