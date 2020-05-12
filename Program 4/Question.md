@@ -7,3 +7,7 @@
 		* Worst case
 		* Best case
 		* Average case.
+		
+## Note:
+	The output time complexity may difer from system to system due to different processing speed
+	of different systems.
