@@ -6,5 +6,5 @@
 	Here we Scan two integers and find the division and if divisor is zero we raise an exception.
 	
 # Program 3B
-		It is a program to implement the multi-thread application. Here we consider three threads 
-		and implement multi-thread concept.
+	It is a program to implement the multi-thread application. Here we consider three threads 
+	and implement multi-thread concept.
