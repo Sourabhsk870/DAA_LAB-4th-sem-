@@ -5,6 +5,12 @@
 	under the 2018 CBCS scheme can view this DAA lab programs as a refrence.
 	
 # ABOUT THE REPOSITORY
+	*The repository consists of 12 programs.
+	
+	* First 9 programs are stored in folder Program 1 to Program 9.
+	
+	* Program 10,11 and 12 are stored in folders Program X,Program XI and Program XII.
+	
 	* The Problem Statement of the reffered program is specified in the file Question.md.
 	
 	* The programs I have uploaded are tested in the terminal (in ubuntu).
