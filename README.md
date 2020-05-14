@@ -1,11 +1,11 @@
 # ABOUT ME
-	*Hi guys, I am Sourabh Santosh Kamble and I am an engineering Student at K.S. Institute of Technology.
+	* Hi guys, I am Sourabh Santosh Kamble and I am an engineering Student at K.S. Institute of Technology.
 	
-	*I have created this repository so that any student of 4th sem who is affiliated to vtu 
+	* I have created this repository so that any student of 4th sem who is affiliated to vtu 
 	under the 2018 CBCS scheme can view this DAA lab programs as a refrence.
 	
 # ABOUT THE REPOSITORY
-	*The repository consists of 12 programs.
+	* The repository consists of 12 programs.
 	
 	* First 9 programs are stored in folders Program 1 to Program 9.
 	
