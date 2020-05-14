@@ -5,7 +5,7 @@
 	under the 2018 CBCS scheme can view this DAA lab programs as a refrence.
 	
 # ABOUT THE REPOSITORY
-	* The Problem Statement of the reffered program is specified in the file Question.md
+	* The Problem Statement of the reffered program is specified in the file Question.md.
 	
 	* The programs I have uploaded are tested in the terminal (in ubuntu).
 	
