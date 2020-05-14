@@ -22,7 +22,7 @@
 	* The sample output of the programs are also uploaded so that the user gets an idea 
 	of how the output is suppose to be.
 	
-	* Also the additional files that are created when the .java file is saved(Eg. Prog1.class) 
+	* Also the additional files that are created when the Program_NO.java file (Eg. Prog1.class) 
 	are also been uploaded.
 	
 ### Hope you guys have fun while coding.
