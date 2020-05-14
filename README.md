@@ -7,7 +7,7 @@
 # ABOUT THE REPOSITORY
 	*The repository consists of 12 programs.
 	
-	* First 9 programs are stored in folder Program 1 to Program 9.
+	* First 9 programs are stored in folders Program 1 to Program 9.
 	
 	* Program 10,11 and 12 are stored in folders Program X,Program XI and Program XII.
 	
