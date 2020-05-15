@@ -15,7 +15,7 @@
 	
 	* The programs I have uploaded are tested in the terminal (in ubuntu).
 	
-	* These programs can be executed on various IDE platforms like Eclipse,Code blocks 
+	* These programs can be executed on various IDE platforms like Eclipse,NetBeans 
 	but I personally recommend you guys to  use the terminal(if linux) or 
 	command Prompt(If windows) .
 	
