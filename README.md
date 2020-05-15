@@ -26,6 +26,6 @@
 	are also been uploaded.
 	
 	
-	Advisor /Idea  : THIRUMALAI SHAKTHIVEL C
+	Advisor /Idea  : THIRUMALAI SHAKTIVEL C
 	
 ### Hope you guys have fun while coding.
