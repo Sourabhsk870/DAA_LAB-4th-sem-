@@ -1,0 +1,77 @@
+# GROUP DETAILS:
+
+	1. 1KS18CS093      -   SHIVANGI SRIVASTAVA
+	2. 1KS18CS124      -   SHEWANI CHIB
+	3. 1KS18CS097      -   SOURABH SANTOSH KAMBLE
+
+
+# INSTRUCTIONS TO RUN THE PROGRAM:
+
+	To run the program type the following command in the terminal:
+
+		python3 G23.py -u "username" -p "password" -s "Server_name/IP ADDRESS"
+
+	1. username - Username is the user id that is used to login to the sever
+	In o/p image sourabh is a user so,
+		 Eg. username = sourabh
+
+	2. password - Password is required to authenticate the user id 
+	In o/p image 0807 is password to authenticate the user sourabh so,
+		Eg.password = 0807
+
+	3. Server_name/IP ADDRESS - server name is the server that you want to access to retrieve the mails
+				IP ADDRESSS can also be user to access the server
+	In o/p image we have used localhost as a server to retrieve mail
+		Eg.Server_name = localhost
+
+	Once you run the program you will see the o/p as shown in picture G23.png
+
+# DESCRIPTION:
+
+	1. In the program username,password and servername are passed through command line argument.
+
+	2. Then we will check if the  server is online or not if server is not online or is unknown 
+	then an error message will be prompted andprogram execution terminates.
+
+	3. If the server is online and connected then we will pass the user name and password as login parameters.
+
+	4. Then login through user name and password is authenticated , if authentication is  not sucessfull then 
+	an error message is prompted and program execution terminates.
+
+	5. If authentication is sucessfull then we proceed with following steps.
+
+	6. If number of mail are zero then the message is prompted saying "There are no new mails".
+
+	7. If number of mail is one then only the first mail is deleted and a message is prompted saying  that "No mails!!"
+
+	8. If number of mails are two then both mails are deleted and message is prompted saying "No mails!!"
+	
+	9. If more than two number of mails are there then the first and last messages are deleted and rest of the mails are shown.
+
+	10. Then we close the connection with server.
+
+	11. At last we close the socket connection.
+
+# CHALLENGES/ISSUES FACED :
+
+	1. Learning socket programming in Python is challenging.
+
+	2. Verfying different kind of errors like,
+		i. socket connection
+		ii. login error
+		iii. mail box empty error
+		iv. passing parameters
+	was challenging as well as fun.
+
+	3. Verifying the code with normal execution using pop3 port 110 was a bit confusing at beginning but helped 
+	us to understand how the serves respond to the client and how both server and client communicate.
+
+	4. Overall it was a good experience in exploring things like
+		i. Socket programming in python
+		ii.IMPLEMENTING POP3 SERVER
+		iii. CLIENT CREATION USING SOCKET PROGRAMMING
+		iv. CONNECTING TO SERVER USING SOCKET PROGRAMMING
+
+## OUTPUT IS ATTACHED TO 
+
+
